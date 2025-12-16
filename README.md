@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm Mohammed Sharif Azhan, I'm a student pursuing Bachelor in Computer Applications and Interested in Full Stack Development!
+
+- 🔭 I’m currently working on a [Blixtro](blixtro.sfscollege.app) - Inventory Management System, ERP for my college - SFS COLLEGE, BANGALORE.
+- 🌱 I recently built a AI Image Generation MERN Stack Project.
+- 👯 I’m looking to work with companies having a job role offering a specified CTC for the Full Stack Role, If want to hire visit my [LinkedIn](www.linkedin.com/in/azhan1503)
 
 <!--
 **Azhan015/Azhan015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
