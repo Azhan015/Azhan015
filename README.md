@@ -79,4 +79,3 @@ Demonstrated leadership, communication & teamwork
 
 “First, solve the problem. Then, write the code.”
 
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Azhan015.Azhan015" /> </p>
